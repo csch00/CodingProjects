@@ -1,2 +1,2 @@
 # CodingProjects
-Collection of small coding activities completed while learning computer programming.
+Collection of miniature projects completed while learning computer programming.
